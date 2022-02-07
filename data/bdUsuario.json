@@ -1,0 +1,13 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "nombre": "Sebastian",
+      "apellido": "Marin",
+      "correo": "sebasttian@corre.com"
+    },
+    {
+      "id": 2
+    }
+  ]
+}
